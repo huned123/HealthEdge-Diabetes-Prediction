@@ -6,21 +6,21 @@ Diabetes Mellitus, one of the leading causes of death worldwide, has no cure til
 
 ## About this work
 
-The major conrributions of this work are as follows:
+The major contributions of this work are as follows:
 
 - A simplified end-to-end framework for the monitoring of risk factors and prediction of diabetes for users.
 - Design and Architecture of an end-to-end system for monitoring and prediction of diabetes risk.
-- Development of a prototype for diabetes risk factors monitoring and prediction in IoT-Edge integrated system..
-- Implementation of an authentication mechanism and a block-chain technique to ensure that data is protected.
-- Performacne and results analysis of our system using the mostly used approaches of machine learning for diabetes prediction in the literature.
+- Development of a prototype for diabetes risk factors monitoring and prediction in IoT-Edge integrated system.
+- Implementation of an authentication mechanism and a blockchain technique to ensure that data is protected.
+- Performance and results analysis of our system using the mostly used approaches of machine learning for diabetes prediction in the literature.
 
 ## Cite this work
 
-Coming Soon..
+- Hennebelle, Alain, Huned Materwala, and Leila Ismail. "HealthEdge: a machine learning-based smart healthcare framework for prediction of type 2 diabetes in an integrated IoT, edge, and cloud computing system." Procedia Computer Science 220 (2023): 331-338.
 
 ## References
 
-- Leila Ismail, Alain Hennebelle, Huned Materwalaa, Juma Al Kaabie, Priya Ranjan, Rajiv Janardhanan, Secure and Privacy-Preserving Automated End-to-End Integrated IoT-Edge-Artificial Intelligence-Blockchain Monitoring System for Diabetes Mellitus Prediction (Coming soon ...)
+- Ismail, Leila, Alain Hennebelle, Huned Materwala, Juma Al Kaabi, Priya Ranjan, and Rajiv Janardhanan. "Secure and Privacy-Preserving Automated End-to-End Integrated IoT-Edge-Artificial Intelligence-Blockchain Monitoring System for Diabetes Mellitus Prediction." arXiv preprint arXiv:2211.07643 (2022).
 - Ismail, L., Materwala, H., Tayefi, M. et al. Type 2 Diabetes with Artificial Intelligence Machine Learning: Methods and Evaluation. Arch Computat Methods Eng 29, 313–333 (2022). https://doi.org/10.1007/s11831-021-09582-x
 - Ismail, Leila, and Huned Materwala. "IDMPF: intelligent diabetes mellitus prediction framework using machine learning." Applied Computing and Informatics (2021). https://www.emerald.com/insight/content/doi/10.1108/ACI-10-2020-0094/full/html
 - Leila Ismail, Huned Materwala, Juma Al Kaabi,
